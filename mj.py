@@ -1,4 +1,4 @@
-q = 5
-w = 2
-e = q*w
-print("fsdf", e)
+a = 5
+b = 2
+c = a*b
+print("面积为", c)
